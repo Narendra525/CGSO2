@@ -1,1 +1,1 @@
-# CGSO2
+# GCSO
